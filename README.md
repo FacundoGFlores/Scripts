@@ -1,4 +1,4 @@
-Readme
+README
 ------
 
 This is a misc repo. I'm actually running these scripts
@@ -15,15 +15,15 @@ Install
 
 After downloading and installing mpd and ncmpcc with:
 
-# apt-get install mpd ncmpcpp
+	apt-get install mpd ncmpcpp
 
 Create the following dirs:
 
-- .mpd and .ncmpcpp/
+	.mpd and .ncmpcpp/
 
 Then you need to "touch" the following files into the mpd dir:
 
-# mpd.db  mpd.log  mpd.pid  mpdstate  playlists
+	mpd.db  mpd.log  mpd.pid  mpdstate  playlists
 
 and then also put the "mpd.config" there.
 
